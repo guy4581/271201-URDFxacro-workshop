@@ -6,10 +6,10 @@
 
 
             <!-- Wheel Information -->
-            <left_joint01>left_wheel_joint01</left_joint01>
-            <left_joint02>left_wheel_joint02</left_joint02>
-            <right_joint01>right_wheel_joint01</right_joint01>
-            <right_joint02>right_wheel_joint02</right_joint02>
+            <left_joint>left_wheel_joint</left_joint>
+
+            <right_joint>right_wheel_joint</right_joint>
+            
             <wheel_separation>0.35</wheel_separation>
             <wheel_diameter>0.1</wheel_diameter>
 
